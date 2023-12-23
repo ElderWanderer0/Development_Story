@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I'm currently working on python
-- 🌱 I’m currently learning python
+- 🔭 I'm working on python and html, css
+- 🌱 I’m currently learning css, javascript
 
