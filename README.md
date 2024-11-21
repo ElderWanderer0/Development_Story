@@ -1,5 +1,1 @@
-### Hi there 👋
-
-- 🔭 I'm currently working on python.
-- 🌱 game development.
-
+Working on game development.
