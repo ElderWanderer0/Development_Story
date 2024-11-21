@@ -1,2 +1,1 @@
-Working on game development and another stuffs.
-Python.
+Trying to make executable or console games.
